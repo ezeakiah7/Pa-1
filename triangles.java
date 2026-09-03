@@ -2,6 +2,7 @@
 
 public class triangles {
 	public static void main(String[] args) {
+		// the program is using nested for loops to draw 4 triangles in a square shape
 		final int GAP_SIZE = 2;
 		Scanner keyboard = new Scanner(System.in);
 		int size;
